@@ -1,5 +1,10 @@
+👋 Hi and welcome to my Github profile.
+Here will a save all of my projects.
+
 👋 Hi, I’m Linus Aakerberg and I'm currently a stundent at Noroff were I study to become an front-end developer.
 
+
+## About me
 * 👀 I’m interested in ...
 To become a fullstack developer 
 * 🌱 I’m currently learning
