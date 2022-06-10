@@ -30,7 +30,7 @@ Find my on-going and finished projects at my portfolio page.
 Visit my LinkedIn if you would like to take contact with me.
 
 [My LinkedIn page](https://www.linkedin.com/in/linus-%C3%A5kerberg-4126891b1/)
-![My LinkedIn page](https://user-images.githubusercontent.com/44141432/173129860-c1d1a60e-1a9d-4530-b671-142772bb18a7.png)
+[My LinkedIn page](https://user-images.githubusercontent.com/44141432/173129860-c1d1a60e-1a9d-4530-b671-142772bb18a7.png)
 
 
 <!---
