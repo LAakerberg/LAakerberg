@@ -7,7 +7,7 @@ I'm currently a stundent at Noroff were I study to become an front-end developer
 
 
 ## About me
-* Started with programming for 10 years ago, onyl with HTML & CSS
+* Started with programming for 10 years ago, only with HTML & CSS
 * Like to find and build solutions that's work for all 
 * I'm like sports and hicking in the nature
 * I’m currently studing and learning HTML, CSS & JavaScript
