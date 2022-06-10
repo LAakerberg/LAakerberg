@@ -1,18 +1,21 @@
-👋 Hi and welcome to my Github profile.
+Hi and welcome to my Github profile.
 Here will a save all of my projects.
 
 I'm currently a stundent at Noroff were I study to become an front-end developer.
 
 
 ## About me
-* Started with programming for 10 years ago
-* Like to find solutions for all people
-* 👀 I’m interested in ...
-To become a fullstack developer 
-* 🌱 I’m currently learning
-HTML, CSS & JavaScript
-* 💞️ I’m looking to collaborate on ...
-* 📫 How to reach me ...
+* Started with programming for 10 years ago, onyl with HTML & CSS
+* Like to find and build solutions that's work for all 
+* I'm like sports and hicking in the nature
+* I’m currently studing and learning HTML, CSS & JavaScript
+* Visit my LinkedIn if you would like to contact me.
+
+## My motivation
+
+I mean that's the future is for everyone and especial when it's come to internet and mobile apps.
+My motivations is to be a part of this industry were I can contributing with good UI/UX for everyone that's use any form
+of website or mobile app.
 
 <!---
 LAakerberg/LAakerberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
