@@ -1,4 +1,4 @@
-## Welcome
+# Welcome
 
 Hi and welcome to my Github profile.
 Here will a save all of my projects.
@@ -31,19 +31,3 @@ Visit my LinkedIn if you would like to take contact with me. 📫
 
 [My LinkedIn page](https://www.linkedin.com/in/linus-%C3%A5kerberg-4126891b1/)
 
-
-<!---
-LAakerberg/LAakerberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-- 👋 Hi, I’m @LAakerberg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-LAakerberg/LAakerberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
