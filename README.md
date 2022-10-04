@@ -38,3 +38,6 @@ Visit my LinkedIn if you would like to take contact with me. 📫
 
 [My LinkedIn page](https://www.linkedin.com/in/linus-%C3%A5kerberg-4126891b1/)
 
+---
+[![](https://visitcount.itsvg.in/api?id=LAakerberg&icon=0&color=4)](https://visitcount.itsvg.in)
+
