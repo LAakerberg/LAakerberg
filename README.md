@@ -21,7 +21,7 @@ of website or mobile app.
 
 ## 💻 My skills:
 
-[![Tech stack](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,js,react,vite)](https://skillicons.dev)
+[![Tech stack](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,sass,js,react,vite)](https://skillicons.dev)
 
 [![Tech stack](https://skillicons.dev/icons?i=postman,xd,ps,vscode,figma,styledcomponents,netlify,github,)](https://skillicons.dev)
 
