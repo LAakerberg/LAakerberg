@@ -3,7 +3,8 @@
 Hi and welcome to my Github profile.
 Here will a save all of my projects.
 
-I'm currently a stundent at Noroff were I study to become an front-end developer.
+I'm currently finish my studies as a frontend developer stundent at Noroff.
+Two years of experience as a developer during my stuides with different tech stack.
 
 
 ## About me
